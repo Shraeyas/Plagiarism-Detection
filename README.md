@@ -1,6 +1,15 @@
 # Plagiarism-Detection
 ---
-### This repository contains the code for detecting plagisrism in documents. The description of various notebooks (in brief) is below.
+### This repository contains the code for detecting plagiarism in documents.
+
+##### The code for the deployed server is present [HERE](https://github.com/Shraeyas/Plagiarism-Detection-Server-Deployment)
+
+##### The Code for the android application is present [HERE](https://github.com/Shraeyas/Plagiarism-Detection-Android)
+
+---
+
+### The description of various notebooks (in brief) is below.
+
 ### Part-1-Preprocessing.ipynb : 
 ```
 Performed pre-processing of the data.
