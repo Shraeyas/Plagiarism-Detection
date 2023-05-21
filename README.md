@@ -1,9 +1,9 @@
 # Plagiarism-Detection
----
-### This repository contains the code for detecting plagiarism in documents.
----
-### The code for the deployed server and website is present [HERE](https://github.com/Shraeyas/Plagiarism-Detection-Server-Deployment)
 ### You can try this [HERE](http://plagiarism.onrender.com/)
+---
+#### This repository contains the code for detecting plagiarism in documents.
+#### The code for the deployed server and website is present [HERE](https://github.com/Shraeyas/Plagiarism-Detection-Server-Deployment)
+
 ---
 ![](https://github.com/Shraeyas/Plagiarism-Detection-Server-Deployment/raw/main/images/Preview.png)
 
