@@ -1,5 +1,6 @@
 # Plagiarism-Detection
 ### You can try this [HERE](http://plagiarism.onrender.com/)
+##### NOTE: This is hosted on free tier on render. This will cause a delay in the response of the first request after a period of inactivity while the instance spins up.
 ---
 #### This repository contains the code for detecting plagiarism in documents.
 #### The code for the deployed server and website is present [HERE](https://github.com/Shraeyas/Plagiarism-Detection-Server-Deployment)
